@@ -1,4 +1,5 @@
 # Что же такое git?
+[Wiki](./https://ru.wikipedia.org/wiki/Git) 
 
 
 ---
