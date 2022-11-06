@@ -9,3 +9,4 @@
 ```bash=
 git push
 ```
+[< НАЗАД](commit.md) [ВПЕРЕД >](status.md)

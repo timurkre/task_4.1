@@ -15,7 +15,7 @@ LICENCE: [MIT](./license.md)
 + [git push](push.md)
 + [git status](status.md)
 + [git pull](pull.md)
-4. [Другие команды GIT]()
+4. [ПРЕИМУЩЕСТВА GIT]()
 
 
 ---
