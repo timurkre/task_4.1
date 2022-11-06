@@ -1,0 +1,8 @@
+# Editor directirias and ffiles
+.idea
+*.suo
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
