@@ -10,9 +10,10 @@ LICENCE: [MIT](./license.md)
 1. [Что такое git?](./aboutgit.md)
 2. Основные команды GIT:
 + [git add][def]
-+ [git commit]()
-+ [git push]()
-+ [git status]()
++ [git commit](commit.md)
++ [git push](push.md)
++ [git status](status.md)
++ [git pull](pull.md)
 
 
 ---
