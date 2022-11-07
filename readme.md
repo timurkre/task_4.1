@@ -7,15 +7,15 @@ LICENCE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. [Что такое git?](./aboutgit.md)
-2. [Основные преимущества GIT]()
+1. [Что такое git?](aboutgit.md)
+2. [Первые шаги и установка](settings.md)
 3. Основные команды GIT:
 + [git add](add.md)
 + [git commit](commit.md)
 + [git push](push.md)
 + [git status](status.md)
 + [git pull](pull.md)
-4. [ПРЕИМУЩЕСТВА GIT]()
+4. [ПРЕИМУЩЕСТВА GIT](benefits.md)
 
 
 ---
