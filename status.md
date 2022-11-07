@@ -1,4 +1,4 @@
-[НАЗАД](readme.md)
+[К ОГЛАВЛЕНИЮ](readme.md)
 
 ## git status
 

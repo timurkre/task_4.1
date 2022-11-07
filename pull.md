@@ -1,4 +1,4 @@
-[< НАЗАД](readme.md)
+[< К ОГЛАВЛЕНИЕЮ](readme.md)
 
 ## ***git pull***
 
